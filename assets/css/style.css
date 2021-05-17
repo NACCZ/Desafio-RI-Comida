@@ -1,0 +1,44 @@
+body{
+    margin: 0%;
+    border: 0%;
+    padding: 0%;
+}
+
+.textotitulo{
+  font-weight: 700;
+  color: #373A3C;
+}
+
+.newsletter{
+background: #dc3545;
+
+}
+
+.cambio{
+  font-family: Lobster;
+  font-weight: 400;
+  height: 60px;
+}
+.letras{
+  font-size: 20px;
+}
+
+.boton1{
+  border: 1px solid #dddddd;
+  font-family: Cabin;
+  font-weight: 400;
+}
+
+.footer{
+  font-family: Lobster;
+  height: 5em;
+  color: #FFFFFF;
+  background: #373A3C;
+  padding-top: 1em;
+
+}
+
+.textofinal{
+  padding-top: 10em;
+  padding-bottom: 10em;
+}
